@@ -1,0 +1,10 @@
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\bin\Debug\Drawing.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
